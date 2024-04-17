@@ -24,15 +24,15 @@ streamlit run app.py
 ```
 If everything went smoothly, you should see the below screen.   
   
-<img src="readme images/cmd.png" width="750">
+<img src="images/cmd.png" width="750">
 
 If you run into errors, please look online for solutions.
 
 ## Few Snippets of the application
-<img src="readme images/initialPage.png" width="750">
-<img src="readme images/heatmap.png" width="750">
-<img src="readme images/temporal.png" width="750">
-<img src="readme images/wordcloud.png" width="750">
+<img src="images/initialPage.png" width="750">
+<img src="images/heatmap.png" width="750">
+<img src="images/temporal.png" width="750">
+<img src="images/wordcloud.png" width="750">
 
 
 ## Developers
