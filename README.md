@@ -14,11 +14,11 @@ pip install -r requirements.txt
 ```
 
 After installing the necessary dependencies, make sure to import the dataset and store it in the base folder of your project directory. 
-Remember, it's essential to clean the dataset for better visualizations and analysis.
+Note: It's essential to clean the dataset for better visualization and analysis.
 
 ## Run the program
-After installing the dependencies and having the dataset at base folder you can go ahead and execute the program.  
-Make sure you are in the directory containing app.py file and Run the following command line to bring up the sever 
+After installing the dependencies and having the dataset in the base folder, you can go ahead and execute the program.  
+Make sure you are in the directory containing the app.py file and Run the following command line to bring up the server 
 ```bash
 streamlit run app.py
 ```
@@ -29,10 +29,10 @@ If everything went smoothly, you should see the below screen.
 If you run into errors, please look online for solutions.
 
 ## Few Snippets of the application
-<img src="readme images/fig1.png" width="750">
-<img src="readme images/fig2.png" width="750">
-<img src="readme images/fig3.png" width="750">
-
+<img src="readme images/initialPage.png" width="750">
+<img src="readme images/heatmap.png" width="750">
+<img src="readme images/temporal.png" width="750">
+<img src="readme images/wordcloud.png" width="750">
 
 
 ## Developers
